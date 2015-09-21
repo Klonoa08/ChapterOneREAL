@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\Visual Studio 2010\Projects\Trees\Burma Shave\bin\Debug\Burma Shave.exe
+C:\Users\eahscs\Documents\Visual Studio 2010\Projects\Trees\Burma Shave\bin\Debug\Burma Shave.pdb
+C:\Users\eahscs\Documents\Visual Studio 2010\Projects\Trees\Burma Shave\obj\x86\Debug\Burma Shave.exe
+C:\Users\eahscs\Documents\Visual Studio 2010\Projects\Trees\Burma Shave\obj\x86\Debug\Burma Shave.pdb
